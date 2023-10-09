@@ -1,3 +1,6 @@
+#.vs folders
+**/.vs/*
+
 # C++ objects and libs
 *.slo
 *.lo
@@ -9,6 +12,12 @@
 *.so.*
 *.dll
 *.dylib
+**/x64/*
+**/Debug/*
+**/Release/*
+**/bin/*
+**/obj/*
+**/packages/*
 
 # Qt-es
 object_script.*.Release

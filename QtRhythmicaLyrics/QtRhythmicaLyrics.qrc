@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/QtRhythmicaLyrics"/>
+    <qresource prefix="/player">
+        <file>btn/bkward-down.png</file>
+        <file>btn/bkward-up.png</file>
+        <file>btn/foward-down.png</file>
+        <file>btn/foward-up.png</file>
+        <file>btn/pause-down.png</file>
+        <file>btn/pause-up.png</file>
+        <file>btn/play-down.png</file>
+        <file>btn/play-up.png</file>
+        <file>btn/stop-down.png</file>
+        <file>btn/stop-up.png</file>
+    </qresource>
+</RCC>
